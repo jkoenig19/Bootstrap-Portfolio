@@ -1,0 +1,29 @@
+body {
+    background-image: url("../Images/white-waves.png");
+}
+
+.navbar {
+    border-bottom: 2px solid #cccccc;
+}
+
+.headings {
+    color: #4aaaa5;
+}
+
+.other {
+    color: #777777;
+}
+
+#footer {
+    margin-top: 100px;
+}
+
+#copyright {
+    text-align: center;
+    font-size: 11px;
+    padding-top: 35px;
+    padding-bottom: 7px;
+    color: #cccccc;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+}
