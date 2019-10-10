@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Images/white-waves.png");
+    background-color: skyblue;
 }
 
 .navbar {
@@ -26,4 +26,8 @@ body {
     color: #cccccc;
     background: #666666;
     border-top: 8px solid #4aaaa5;
+}
+
+.btn-resume {
+    background-color: brown;
 }
